@@ -1,21 +1,14 @@
 # BIL481 — Fall 2026 Term Project
 
-Replace the example group name and member details below with your group's information.
-
-[Project Assignment 1 description](f26_assignment_1.pdf)
-
 ## Group Name
 
-**Group-ABC** *(example)*
+**UniHelp**
 
 ## Group Members
 
-List all 4–5 group members. The first row is an example; replace it with a member's details. Remove the fifth row if your group has four members.
-
-| Full Name | GitHub Username | Email | School Number |
-| --- | --- | --- | --- |
-| Ömer Kılınç *(example)* | @CPPpriest | omerkilinc@etu.edu.tr | 261111011 |
-| Member 2 | @github-username | email@etu.edu.tr | School number |
-| Member 3 | @github-username | email@etu.edu.tr | School number |
-| Member 4 | @github-username | email@etu.edu.tr | School number |
-| Member 5 | @github-username | email@etu.edu.tr | School number |
+| Full Name             | GitHub Username | Email                       | School Number |
+| --------------------- | --------------- | --------------------------- | ------------- |
+| Furkan Yılmaz         | @furylmz        | furkan.yilmaz@etu.edu.tr    | 231101012     |
+| Efe Deniz Kahvecioğlu | @efed3n1z       | ekahvecioglu@etu.edu.tr     | 241101072     |
+| Enis Talha Öztepe     | @enisoztepe     | eoztepe@etu.edu.tr          | 231101033     |
+| Muhammed Taha Kaya    | @mt-kaya        | muhammedtahakaya@etu.edu.tr | 241104083     |
